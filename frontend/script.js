@@ -63,4 +63,10 @@ async function loadEvent() {
     }
 }
 
+// trying 
+
+
+
+
+
 window.addEventListener('load' , loadEvent);
